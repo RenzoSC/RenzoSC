@@ -2,7 +2,7 @@
     <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="200">
     <h1 align="center">Hi 😃, this is Renzo</h1>
     <h3 align="center">
-        I'm a Computer Science student at FAMAF, in process of learning data science. I am quite self-taught and motivated to constantly develop my skills, being organized and methodical, I trust in my ability to solve problems. I love working in a team, I see it as anopportunity to learn from my colleagues, thus being able to adopt good practices or complement skills.
+        I'm a Computer Science student at FAMAF, in process of learning data science 
     </h3>
 </div>
 
