@@ -2,7 +2,7 @@
     <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="200">
     <h1 align="center">Hi 😃, this is Renzo</h1>
     <h3 align="center">
-        I'm a Computer Science student at FAMAF, in process of learning data science 
+        I'm a Computer Science student at FAMAF
     </h3>
 </div>
 
@@ -11,7 +11,7 @@
 
 
 ### 👨‍💻 About Me :
-- 📓 I'm currently self-learning data science and SQL
+- 📓 I am a self-learning person and I like to learn new things
 - 🐍 The first language I learned was python
 - 👯‍♂️ I'm open to collaborate with someone in a project :)
 
