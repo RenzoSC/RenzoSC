@@ -59,4 +59,6 @@
 
 ### 📊 My stats!
 
-![RenzoSC's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenzoSC&theme=dracula&show_icons=true)
+![RenzoSC's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenzoSC&theme=dracula&show_icons=true&include_all_commits=True)
+
+![RenzoSC's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RenzoSC&theme=dracula&layout=compact&count_private=True)
